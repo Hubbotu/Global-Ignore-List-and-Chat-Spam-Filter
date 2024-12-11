@@ -1,0 +1,1 @@
+# Global-Ignore-List-and-Chat-Spam-Filter
